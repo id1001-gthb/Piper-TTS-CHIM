@@ -1,0 +1,2 @@
+Put here your voice model files. 
+Two files for model: .onnx and .onnx.json
