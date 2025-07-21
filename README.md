@@ -1,11 +1,11 @@
 # Piper-TTS-CHIM
 CHIM Piper-TTS integration
 
-Need to upload models in 'voices' subfolder.
+After installation, upload models in 'voices' subfolder.
 
-Available models (some are mult-voice):
+**Available models (some are mult-voice):**
 
-clean100
+*clean100* 
 crdragonvoice
 cruniquealduin
 cruniqueodahviing
@@ -39,9 +39,9 @@ en_GB-jenny_dioco-medium
 en_GB-northern_english_male-medium
 en_GB-semaine-medium
 en_GB-southern_english_female-low
-en_GB-vctk-medium
+*en_GB-vctk-medium*
 en_US-amy-low
-en_US-arctic-medium
+*en_US-arctic-medium*
 en_US-bryce-medium
 en_US-danny-low
 en_US-hfc_female-medium
@@ -52,7 +52,7 @@ en_US-kathleen-low
 en_US-kristin-medium
 en_US-kusal-medium
 en_US-lessac-low
-en_US-libritts_r-medium
+*en_US-libritts_r-medium*
 en_US-lj-female-low
 en_US-ljspeech-medium
 en_US-norman-medium
@@ -128,8 +128,8 @@ maleuniquetullius
 maleuniqueulfric
 malewarlock
 maleyoungeager
-mv2
+*mv2*
 zoravoice
 
+*Multi-voice:* clean100, en_GB-vctk-medium, en_US-arctic-medium, en_US-libritts_r-medium, mv2
 
-Multi-voice: clean100, en_GB-vctk-medium, en_US-libritts_r-medium, mv2
