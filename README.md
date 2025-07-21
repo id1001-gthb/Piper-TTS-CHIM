@@ -1,8 +1,11 @@
 # Piper-TTS-CHIM
-CHIM Piper-TTS integration
+
+CHIM Piper-TTS integration. 
+
 This is /home/dwemer/piper folder.
 
 After installation, upload models in 'voices' subfolder.
+
 
 **Available models (some are mult-voice):**
 
